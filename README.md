@@ -30,15 +30,13 @@ rknn_lib 是瑞芯微官方动态库librknnrt.so所在位置
 
 3.编译运行
 
-在编译前需在源文件中全局搜索 “*****” ，为路径修改标记
-
 **①cd build**
 
 **②cmake ..**
 
 **③make**
 
-**④./rknn_yolov8_demo**
+**④./rknn_yolov5_demo**
 
 
 
